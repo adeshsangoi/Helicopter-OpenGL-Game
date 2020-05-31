@@ -79,7 +79,7 @@ else if(wflag==1)//Welcome Screen
 	glRectf(0.0,100.0,100.0,90.0);//floor
 	glColor3f(1.0,1.0,1.0);
 	renderBitmapString(35,85,0,GLUT_BITMAP_HELVETICA_18,"NITK ENGINEERING COLLEGE");
-	renderBitmapString(41,80,0,GLUT_BITMAP_HELVETICA_12,"Bangalore, Karnataka-575025");
+	renderBitmapString(41,80,0,GLUT_BITMAP_HELVETICA_12,"Mangalore, Karnataka-575025");
 	glColor3f(1.0,1.0,0.0);
 	renderBitmapString(20,65,0,GLUT_BITMAP_8_BY_13,"A mini project for Computer Graphics");
 	renderBitmapString(45.5,70,0,GLUT_BITMAP_TIMES_ROMAN_24,"Helicopter");
